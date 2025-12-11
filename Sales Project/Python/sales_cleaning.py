@@ -12,6 +12,7 @@ df = df.dropna()
 df = df.drop_duplicates()           
 df['OrderDate'] = pd.to_datetime(df['OrderDate']) 
 
+# 4. Add TotalSales column
 df['TotalSales'] = df['Quantity'] * df['UnitPrice']
 
 # 5. Simple summaries
@@ -25,5 +26,6 @@ df.to_csv('sales_cleaned.csv', index=False)
 # 7. Save summaries
 region_sales.to_csv('summary_region.csv')
 product_sales.to_csv('summary_product.csv')
+
 
 print("Data file cleaned and stored.")

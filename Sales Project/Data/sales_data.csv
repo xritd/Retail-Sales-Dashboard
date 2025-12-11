@@ -1,0 +1,202 @@
+OrderDate,Region,Product,Quantity,UnitPrice
+06/27/2024,West,Cooling fan,7,289
+09/22/2023,South,Cooling fan,6,336
+05/09/2024,East,SSD,3,486
+08/13/2024,South,Speakers,1,241
+09/30/2023,South,Hard drive,1,381
+01/13/2024,East,Webcam,11,330
+11/03/2023,North,Optical drive,1,233
+06/23/2024,East,SSD,5,228
+03/07/2024,South,Cooling fan,5,423
+04/26/2023,South,Monitor,1,223
+07/10/2024,North,CPU,10,176
+11/27/2023,West,Speakers,1,167
+11/12/2024,North,Headset,3,296
+08/28/2023,West,CPU,6,378
+05/21/2023,West,Speakers,2,180
+08/28/2024,North,Hard drive,4,174
+07/11/2024,South,SSD,4,211
+01/17/2023,North,External hard drive,5,251
+04/29/2023,South,GPU,3,341
+09/17/2023,West,SSD,8,347
+01/10/2024,East,Webcam,3,398
+07/10/2023,North,RAM,2,390
+05/15/2024,South,Speakers,10,234
+01/24/2023,North,SSD,2,235
+12/24/2024,East,Mouse,3,317
+08/31/2023,East,CPU,11,483
+06/19/2023,South,Speakers,10,254
+10/06/2024,South,Hard drive,6,146
+11/21/2024,North,Hard drive,8,367
+12/04/2024,East,Webcam,4,256
+02/29/2024,East,Headset,8,160
+08/23/2023,West,Keyboard,3,128
+04/06/2024,North,Webcam,1,153
+01/29/2024,East,Hard drive,3,133
+05/17/2023,West,Hard drive,3,358
+02/26/2023,North,RAM,3,499
+08/15/2023,North,GPU,7,353
+07/13/2023,South,GPU,7,433
+11/26/2024,South,Webcam,9,306
+05/08/2023,North,Headset,1,349
+07/26/2024,East,Keyboard,9,338
+03/27/2024,East,Headset,7,143
+02/07/2023,North,GPU,9,369
+12/22/2023,North,CPU,5,236
+12/19/2024,West,Cooling fan,3,292
+06/27/2023,North,Webcam,5,292
+12/02/2024,North,Mouse,9,234
+11/01/2024,West,Monitor,3,427
+09/24/2023,South,Cooling fan,10,271
+09/23/2024,North,GPU,7,454
+11/03/2023,South,Webcam,3,389
+04/02/2024,South,USB flash drive,1,489
+03/10/2024,East,Webcam,1,370
+01/28/2024,West,Speakers,10,467
+08/06/2023,North,Headset,11,221
+08/13/2024,North,Cooling fan,3,321
+08/18/2024,South,Mouse,5,473
+12/29/2023,North,Optical drive,1,123
+12/13/2023,West,Headset,7,147
+05/22/2023,East,Mouse,6,266
+03/02/2024,South,SSD,5,119
+08/25/2023,North,SSD,7,295
+07/02/2023,South,Monitor,7,308
+12/27/2024,North,USB flash drive,10,479
+01/14/2023,South,GPU,9,220
+02/05/2024,North,USB flash drive,10,276
+01/27/2024,South,Mouse,8,418
+06/17/2023,West,RAM,4,415
+03/16/2024,North,CPU,9,341
+06/17/2024,West,Headset,3,177
+09/21/2024,North,GPU,4,349
+10/31/2024,South,SSD,3,156
+04/15/2024,West,SSD,5,228
+12/31/2024,South,Headset,11,231
+04/12/2023,West,Optical drive,3,403
+03/25/2023,North,Mouse,4,110
+07/25/2024,North,Monitor,11,442
+04/01/2024,West,Optical drive,8,309
+07/19/2023,East,Speakers,4,492
+09/28/2024,South,GPU,7,480
+10/28/2024,South,Hard drive,9,296
+09/15/2024,South,Mouse,7,326
+10/02/2024,East,External hard drive,11,412
+06/19/2024,West,Optical drive,11,497
+06/26/2024,South,SSD,4,147
+01/28/2023,South,GPU,3,226
+09/15/2023,East,USB flash drive,8,347
+08/18/2023,West,RAM,7,471
+06/17/2023,North,Monitor,7,194
+12/04/2024,South,Monitor,2,473
+08/27/2023,North,Keyboard,1,235
+01/27/2023,South,Speakers,1,361
+12/08/2024,West,Mouse,2,434
+10/06/2023,North,Speakers,1,257
+11/11/2024,South,External hard drive,10,209
+07/12/2024,South,Monitor,2,237
+06/07/2023,East,Optical drive,5,444
+03/19/2024,North,Headset,5,321
+08/09/2024,West,Hard drive,9,469
+03/04/2024,East,Cooling fan,9,112
+03/14/2023,North,Headset,1,142
+09/02/2023,North,External hard drive,11,267
+08/22/2023,South,Headset,8,422
+08/27/2023,West,Optical drive,2,408
+02/13/2023,South,USB flash drive,7,351
+09/01/2024,South,Optical drive,8,142
+01/05/2023,West,Mouse,7,331
+01/11/2024,South,GPU,7,324
+06/19/2023,North,Keyboard,11,389
+02/04/2024,East,Hard drive,9,171
+02/06/2023,North,SSD,5,155
+05/05/2023,South,Monitor,3,398
+02/01/2024,South,Keyboard,7,456
+03/04/2023,South,Speakers,8,407
+06/27/2023,West,SSD,5,490
+09/13/2023,North,USB flash drive,10,409
+06/09/2024,East,CPU,5,499
+04/04/2023,South,Webcam,6,464
+08/02/2024,South,USB flash drive,10,482
+03/11/2024,East,Cooling fan,11,292
+04/14/2024,East,RAM,1,287
+06/05/2023,West,CPU,10,245
+12/31/2023,West,Hard drive,8,340
+11/21/2023,North,Headset,7,319
+06/01/2024,South,Mouse,1,488
+03/02/2023,West,External hard drive,2,317
+11/15/2023,East,Optical drive,5,188
+03/20/2024,West,Optical drive,3,224
+08/09/2023,West,Mouse,3,496
+12/03/2023,West,SSD,10,468
+11/14/2023,South,Webcam,2,404
+,,,,
+07/09/2024,West,External hard drive,3,298
+04/25/2023,South,Cooling fan,5,113
+09/02/2024,North,Hard drive,8,399
+02/07/2023,South,Keyboard,5,209
+12/30/2023,East,External hard drive,5,197
+08/28/2024,South,Optical drive,3,273
+07/08/2023,West,External hard drive,6,243
+12/16/2024,South,Optical drive,1,104
+04/30/2023,South,CPU,8,416
+12/15/2023,West,GPU,6,378
+06/29/2024,North,Optical drive,5,134
+08/30/2023,North,CPU,9,222
+10/06/2024,South,SSD,1,291
+08/01/2023,West,SSD,10,296
+05/28/2024,South,RAM,7,211
+06/23/2024,East,Hard drive,2,391
+11/17/2024,West,Headset,3,276
+11/27/2023,East,GPU,9,495
+02/15/2023,North,Speakers,10,186
+10/09/2023,North,Keyboard,2,457
+02/26/2024,West,RAM,1,102
+05/08/2023,North,Speakers,7,327
+11/29/2023,North,Headset,8,331
+03/12/2024,East,Cooling fan,10,372
+07/19/2024,South,Headset,3,234
+07/25/2023,East,Hard drive,1,190
+05/13/2023,North,Keyboard,10,264
+11/29/2024,West,Headset,9,175
+04/27/2023,West,Monitor,4,319
+02/10/2023,West,USB flash drive,2,286
+04/27/2024,South,USB flash drive,2,290
+03/31/2024,South,Mouse,8,136
+10/26/2024,East,Webcam,7,439
+05/29/2024,North,Keyboard,5,195
+07/24/2023,West,Webcam,10,214
+12/25/2023,North,Monitor,4,472
+07/07/2023,North,CPU,11,285
+10/22/2024,East,Speakers,10,110
+05/23/2023,South,RAM,9,440
+12/17/2024,North,USB flash drive,3,100
+05/27/2023,South,USB flash drive,2,103
+01/01/2024,West,Hard drive,7,487
+02/12/2023,East,RAM,8,205
+12/30/2024,North,Mouse,5,338
+03/02/2024,West,Webcam,11,210
+01/11/2024,North,Hard drive,7,202
+02/17/2023,East,SSD,2,462
+12/11/2023,West,Webcam,6,402
+10/23/2024,North,Hard drive,6,362
+12/09/2023,South,RAM,6,298
+01/24/2024,West,Hard drive,5,122
+07/16/2023,North,CPU,4,440
+11/06/2024,North,Webcam,11,474
+04/28/2024,South,Cooling fan,8,174
+07/28/2023,East,SSD,6,463
+12/19/2024,East,Headset,9,415
+03/13/2023,West,Hard drive,7,428
+09/05/2023,North,SSD,1,352
+09/26/2024,South,Cooling fan,11,334
+03/29/2023,East,Speakers,8,331
+04/10/2024,North,SSD,2,413
+06/26/2023,West,Webcam,1,352
+07/09/2023,North,USB flash drive,11,267
+08/08/2024,East,GPU,9,368
+10/26/2024,South,Monitor,8,404
+10/22/2023,South,CPU,7,473
+07/06/2023,East,USB flash drive,5,389
+03/28/2024,North,Webcam,8,377
+06/18/2024,North,External hard drive,3,259
